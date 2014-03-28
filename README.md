@@ -1,6 +1,6 @@
 # Leaping colours
 
-A website built using [generator-starttter](https://github.com/taktran/generator-starttter).
+Playing with Leap motion and Two.js.
 
 ## Development
 
